@@ -2,6 +2,8 @@ import java.util.Scanner;
 
 public class Notas {
     public static void main(String[] args) {
+        //Gabriel Avelino turma:3ºB
+        //Segunda nota
         int quan;
         float No1 = 0;
         float No2 = 0;
